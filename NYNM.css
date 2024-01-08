@@ -1,0 +1,113 @@
+.i{
+    display: flex;
+    justify-content: center;
+}
+.ii{
+    position: absolute;
+    text-align: center;
+    font-family: Merriweather;
+    font-weight: 400;
+    line-height: normal;
+    color: rgb(250, 172, 5);
+    font-size: 32px;
+    margin-top: 40px;
+}
+.offer >h1{
+    color: rgb(241, 30, 30);
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.offer >h6{
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+}
+.offer >h6 span{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 28px;
+     font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.offer > div{
+    display: flex;
+    justify-content: center;
+}
+.party {
+    display: flex;
+    justify-content: center;
+}
+.iii{
+    position: absolute;
+    color: antiquewhite;
+    margin-top: 50px;
+    text-align:left;
+    display: flex;
+    list-style: none;
+}
+.h{
+    background-color: transparent;
+    color: antiquewhite;   
+}
+.j{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(254, 188, 164);
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    list-style: none;
+    padding-top: 20px;
+    margin-left: 91px;
+}
+.u {
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;;
+}
+.o{
+    color: #F00;
+}
+.f{
+    padding-top: 4px;
+    background-color: red;
+    border: none;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 40px; 
+}
+.t{
+    display: flex;
+    justify-content: center;
+    margin-left: 91px;
+    margin-right: 91px;
+    margin-top: 100px;
+}
+.t-2{
+    border: 7px solid red ;
+    justify-content: center;
+    border-radius: 250px;
+    padding: 20px ;
+    margin-left: 30px;
+    margin-right: 90px;
+}
+.t-2 .t-1 .t-3 {
+    position: absolute;
+    text-align: center;
+}
+.t-1{
+    margin-top: 90px;
+}
+.t-3{
+    margin-top: 100px;
+}
