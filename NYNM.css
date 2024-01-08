@@ -111,3 +111,44 @@
 .t-3{
     margin-top: 100px;
 }
+.x{
+    display: flex;
+    justify-content: center;
+}
+.x-1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.x-2{
+    display: flex;
+}
+.y{
+    display: flex;
+    justify-content: center;
+}
+.y-2{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    list-style: none;
+    margin-left: 151px;
+    margin-bottom: -1px;
+    position: absolute;
+}
+.hi{
+    width: 300px;
+    margin-left: 268px;
+}
+.h5o{
+    display: flex;
+    justify-content: center;
+    width: 206.841px;
+    height: 206.841px;
+    margin-top: 50px;
+    margin-left: 680px;
+    position: absolute;
+}
+.hu{
+    margin-top: 302px;
+}
